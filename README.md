@@ -1,5 +1,7 @@
 # ecommerce-predictor
-ML model that predicts delivery times for packages ordered online
+ML model that predicts delivery times for packages ordered online.
+
+Won first place in AI competition at UC Davis.
 
 This model integrates five datasets from Kaggle (https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset?resource=download) that detail package information and arrival times.
 
